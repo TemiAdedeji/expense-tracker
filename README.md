@@ -1,4 +1,4 @@
-## Project descriptin
+## Project description
 Expense Tracker - Python OOP Project
     This project is a simple expense tracker implemented in Python using Object-Oriented Programming (OOP) concepts. It consists of two classes: Expense and ExpenseDB, which allow you to create, manage, and track financial expenses.
 
